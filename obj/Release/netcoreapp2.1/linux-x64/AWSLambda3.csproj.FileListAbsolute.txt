@@ -1,0 +1,11 @@
+C:\Users\Matan\Source\Repos\AWSLambda3\AWSLambda3\bin\Release\netcoreapp2.1\linux-x64\AWSLambda3.deps.json
+C:\Users\Matan\Source\Repos\AWSLambda3\AWSLambda3\bin\Release\netcoreapp2.1\linux-x64\AWSLambda3.runtimeconfig.json
+C:\Users\Matan\Source\Repos\AWSLambda3\AWSLambda3\bin\Release\netcoreapp2.1\linux-x64\AWSLambda3.runtimeconfig.dev.json
+C:\Users\Matan\Source\Repos\AWSLambda3\AWSLambda3\bin\Release\netcoreapp2.1\linux-x64\AWSLambda3.dll
+C:\Users\Matan\Source\Repos\AWSLambda3\AWSLambda3\bin\Release\netcoreapp2.1\linux-x64\AWSLambda3.pdb
+C:\Users\Matan\Source\Repos\AWSLambda3\AWSLambda3\obj\Release\netcoreapp2.1\linux-x64\AWSLambda3.csprojAssemblyReference.cache
+C:\Users\Matan\Source\Repos\AWSLambda3\AWSLambda3\obj\Release\netcoreapp2.1\linux-x64\AWSLambda3.csproj.CoreCompileInputs.cache
+C:\Users\Matan\Source\Repos\AWSLambda3\AWSLambda3\obj\Release\netcoreapp2.1\linux-x64\AWSLambda3.AssemblyInfoInputs.cache
+C:\Users\Matan\Source\Repos\AWSLambda3\AWSLambda3\obj\Release\netcoreapp2.1\linux-x64\AWSLambda3.AssemblyInfo.cs
+C:\Users\Matan\Source\Repos\AWSLambda3\AWSLambda3\obj\Release\netcoreapp2.1\linux-x64\AWSLambda3.dll
+C:\Users\Matan\Source\Repos\AWSLambda3\AWSLambda3\obj\Release\netcoreapp2.1\linux-x64\AWSLambda3.pdb
